@@ -1,4 +1,4 @@
 # pom-practice
-1. git clone https://github.com/juice-shop/juice-shop -> juice-shop -> npm install
+1. git clone https://github.com/juice-shop/juice-shop -> juice-shop -> npm install && start
 2. repo gonna test localhost:3000
 3. ✔️ login and register
